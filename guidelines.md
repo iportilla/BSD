@@ -1,6 +1,6 @@
-# Intro to AI Talk — Guidelines for Spanish-Speaking Migrant Parents
+# Intro to AI Talk — Guidelines for Spanish-Speaking Parents
 
-**Audience:** Spanish-speaking migrant parents  
+**Audience:** Spanish-speaking parents  
 **Digital literacy:** Basic — comfortable with WhatsApp and Facebook  
 **Format:** Live intro talk (~45 minutes)  
 **Goal:** First impression of what AI can do *for them* — make people lean forward, not overwhelm them
