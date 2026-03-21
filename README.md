@@ -1,0 +1,2 @@
+# BSD
+Intro to AI
