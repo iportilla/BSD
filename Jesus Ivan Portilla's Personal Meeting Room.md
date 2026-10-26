@@ -2,7 +2,7 @@
 
 Esta fue una capacitación para padres de familia del distrito escolar de Boulder sobre inteligencia artificial generativa y el uso del ChatGPT. Ivan Portilla, arquitecto de inteligencia artificial y educador, dirigió la presentación explicando qué es la IA generativa, cómo funciona y cómo los padres pueden usarla de manera responsable con sus hijos. Durante la charla, se demostraron herramientas como el Google Notebook y se enseñó una metodología para hacer mejores preguntas a la IA usando cuatro componentes: objetivo, contexto, fuente y expectativas. Se discutieron los patrones de uso de los estudiantes, incluyendo el 96% que usa la IA para tareas, resúmenes y ensayos, así como los riesgos como alucinaciones, problemas de privacidad y estafas con voz clonada. Ivan proporcionó consejos prácticos sobre cómo los padres pueden acompañar a sus hijos en el uso de estas herramientas y finalizó la presentación compartiendo una guía familiar para el uso responsable de la inteligencia artificial.
 
-##Video
+## Video
 
 [Google Drive](https://drive.google.com/file/d/1l10U5j9zyKbnFq-1fydQtGzj_bEi5ypM/view?usp=sharing)
 ## Siguientes pasos
